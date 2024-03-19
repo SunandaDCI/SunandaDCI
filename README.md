@@ -2,13 +2,13 @@
 
 Ahrensfelde, Brandenburg | 📫 sunanda.kodavali@gmail.com
 
+## About
 
-![Sunanda](./images/sunanda.jpeg)
+Driven and enthusiastic Backend Developer with a strong passion for creating Applications. Experienced in developing Java Enterprise Applications. Quick learner, team player, and effective communicator. Proficient in Spring Framework, Java, and SQL. Familiar with Spring Boot and Microservices.
+
+## Skils
 
 > Spring || Java || SQL || JSP (JavaScript, AJAX, HTML)
-
-## About
-Driven and enthusiastic Backend Developer with a strong passion for creating Applications. Experienced in developing Java Enterprise Applications. Quick learner, team player, and effective communicator. Proficient in Spring Framework, Java, and SQL. Familiar with Spring Boot and Microservices.
 
 ## Experience
 
@@ -31,5 +31,9 @@ Driven and enthusiastic Backend Developer with a strong passion for creating App
 
 * [Linkedin](https://www.linkedin.com/in/sunanda-kodavali-554b81a7/).
 * [Xing](https://www.xing.com/profile/Sunanda_Kodavali/web_profiles).
+
+---
+
+               
 
 
